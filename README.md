@@ -55,10 +55,10 @@ micromamba run -n ml_env python3 experiments/cost_table.py
 The training-loss analyses (`analyze.py loss`, `loss-sig`, `cityscapes`), the
 training-loss figures and the boundary-F1 analysis read TensorBoard logs, and
 the depth-usage probes (`analyze_z.py`, `analyze_cifar_difficulty.py`,
-`analyze_zstretch.py`) read trained checkpoints. Neither is part of this
-repository: place the TensorBoard logs under `tensorboard_logs/` and
-`kaggle_artifacts/tb_logs/`, and the checkpoints under `results/ckpts/` and
-`kaggle_artifacts/`.
+`analyze_zstretch.py`) read trained checkpoints. Both are archived separately
+at [doi:10.5281/zenodo.23510016](https://doi.org/10.5281/zenodo.23510016):
+download `tensorboard_logs.zip` and `checkpoints.zip` and unzip them at the
+root of this repository, which puts every file where the scripts expect it.
 
 ## Re-running the experiments
 
