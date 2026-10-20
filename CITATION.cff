@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Pyramidal Deformable Convolution: code and results"
+abstract: >-
+  The Pyramidal Deformable Convolution (PDC) block, which extends deformable
+  convolution with a learned depth offset along a feature pyramid, together
+  with the training runners, analysis scripts, per-run results and per-image
+  metrics of its evaluation on six classification and segmentation benchmarks.
+authors:
+  - family-names: Horbatiuk
+    given-names: Vladyslav
+    orcid: "https://orcid.org/0000-0001-5290-1845"
+    affiliation: "Igor Sikorsky Kyiv Polytechnic Institute"
+  - family-names: Sineglazov
+    given-names: Victor
+    orcid: "https://orcid.org/0000-0002-3297-9060"
+    affiliation: "Igor Sikorsky Kyiv Polytechnic Institute"
+doi: 10.5281/zenodo.23509143
+repository-code: "https://github.com/vladislav-horbatiuk/pyramidal_deformable_convolution_public"
+license: MIT
+keywords:
+  - deformable convolution
+  - feature pyramid
+  - multi-scale feature aggregation
+  - semantic segmentation
+  - image classification
