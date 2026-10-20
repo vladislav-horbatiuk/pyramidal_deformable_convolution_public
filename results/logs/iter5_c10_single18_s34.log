@@ -1,0 +1,305 @@
+[cls_cifar10_pyramidal_single_level_ch=18_seed=3] params=88552 device=cpu
+epoch 1/150 train_loss=1.8231
+epoch 2/150 train_loss=1.6247
+epoch 3/150 train_loss=1.5507 test_acc=0.5396
+epoch 4/150 train_loss=1.5005
+epoch 5/150 train_loss=1.4594
+epoch 6/150 train_loss=1.4227 test_acc=0.5981
+epoch 7/150 train_loss=1.3943
+epoch 8/150 train_loss=1.3643
+epoch 9/150 train_loss=1.3348 test_acc=0.6329
+epoch 10/150 train_loss=1.3190
+epoch 11/150 train_loss=1.2992
+epoch 12/150 train_loss=1.2825 test_acc=0.6588
+epoch 13/150 train_loss=1.2668
+epoch 14/150 train_loss=1.2537
+epoch 15/150 train_loss=1.2445 test_acc=0.6688
+epoch 16/150 train_loss=1.2301
+epoch 17/150 train_loss=1.2219
+epoch 18/150 train_loss=1.2105 test_acc=0.6867
+epoch 19/150 train_loss=1.2032
+epoch 20/150 train_loss=1.1933
+epoch 21/150 train_loss=1.1821 test_acc=0.6959
+epoch 22/150 train_loss=1.1788
+epoch 23/150 train_loss=1.1696
+epoch 24/150 train_loss=1.1618 test_acc=0.6959
+epoch 25/150 train_loss=1.1582
+epoch 26/150 train_loss=1.1560
+epoch 27/150 train_loss=1.1485 test_acc=0.7096
+epoch 28/150 train_loss=1.1390
+epoch 29/150 train_loss=1.1320
+epoch 30/150 train_loss=1.1307 test_acc=0.7149
+epoch 31/150 train_loss=1.1259
+epoch 32/150 train_loss=1.1212
+epoch 33/150 train_loss=1.1149 test_acc=0.7262
+epoch 34/150 train_loss=1.1125
+epoch 35/150 train_loss=1.1107
+epoch 36/150 train_loss=1.1037 test_acc=0.7286
+epoch 37/150 train_loss=1.0968
+epoch 38/150 train_loss=1.0975
+epoch 39/150 train_loss=1.0923 test_acc=0.7215
+epoch 40/150 train_loss=1.0847
+epoch 41/150 train_loss=1.0842
+epoch 42/150 train_loss=1.0806 test_acc=0.7278
+epoch 43/150 train_loss=1.0743
+epoch 44/150 train_loss=1.0734
+epoch 45/150 train_loss=1.0696 test_acc=0.7383
+epoch 46/150 train_loss=1.0699
+epoch 47/150 train_loss=1.0620
+epoch 48/150 train_loss=1.0561 test_acc=0.7367
+epoch 49/150 train_loss=1.0542
+epoch 50/150 train_loss=1.0551
+epoch 51/150 train_loss=1.0525 test_acc=0.7404
+epoch 52/150 train_loss=1.0492
+epoch 53/150 train_loss=1.0435
+epoch 54/150 train_loss=1.0392 test_acc=0.7458
+epoch 55/150 train_loss=1.0382
+epoch 56/150 train_loss=1.0329
+epoch 57/150 train_loss=1.0359 test_acc=0.7401
+epoch 58/150 train_loss=1.0295
+epoch 59/150 train_loss=1.0242
+epoch 60/150 train_loss=1.0282 test_acc=0.7499
+epoch 61/150 train_loss=1.0204
+epoch 62/150 train_loss=1.0214
+epoch 63/150 train_loss=1.0120 test_acc=0.7536
+epoch 64/150 train_loss=1.0137
+epoch 65/150 train_loss=1.0112
+epoch 66/150 train_loss=1.0084 test_acc=0.7557
+epoch 67/150 train_loss=1.0055
+epoch 68/150 train_loss=1.0012
+epoch 69/150 train_loss=0.9984 test_acc=0.7563
+epoch 70/150 train_loss=0.9985
+epoch 71/150 train_loss=0.9948
+epoch 72/150 train_loss=0.9952 test_acc=0.7564
+epoch 73/150 train_loss=0.9936
+epoch 74/150 train_loss=0.9902
+epoch 75/150 train_loss=0.9876 test_acc=0.7586
+epoch 76/150 train_loss=0.9860
+epoch 77/150 train_loss=0.9820
+epoch 78/150 train_loss=0.9778 test_acc=0.7626
+epoch 79/150 train_loss=0.9770
+epoch 80/150 train_loss=0.9781
+epoch 81/150 train_loss=0.9763 test_acc=0.7585
+epoch 82/150 train_loss=0.9716
+epoch 83/150 train_loss=0.9725
+epoch 84/150 train_loss=0.9706 test_acc=0.7635
+epoch 85/150 train_loss=0.9662
+epoch 86/150 train_loss=0.9658
+epoch 87/150 train_loss=0.9651 test_acc=0.7638
+epoch 88/150 train_loss=0.9607
+epoch 89/150 train_loss=0.9595
+epoch 90/150 train_loss=0.9603 test_acc=0.7615
+epoch 91/150 train_loss=0.9559
+epoch 92/150 train_loss=0.9561
+epoch 93/150 train_loss=0.9547 test_acc=0.7675
+epoch 94/150 train_loss=0.9502
+epoch 95/150 train_loss=0.9501
+epoch 96/150 train_loss=0.9518 test_acc=0.7659
+epoch 97/150 train_loss=0.9482
+epoch 98/150 train_loss=0.9450
+epoch 99/150 train_loss=0.9432 test_acc=0.7645
+epoch 100/150 train_loss=0.9389
+epoch 101/150 train_loss=0.9427
+epoch 102/150 train_loss=0.9428 test_acc=0.7690
+epoch 103/150 train_loss=0.9400
+epoch 104/150 train_loss=0.9383
+epoch 105/150 train_loss=0.9335 test_acc=0.7657
+epoch 106/150 train_loss=0.9362
+epoch 107/150 train_loss=0.9348
+epoch 108/150 train_loss=0.9318 test_acc=0.7682
+epoch 109/150 train_loss=0.9289
+epoch 110/150 train_loss=0.9281
+epoch 111/150 train_loss=0.9271 test_acc=0.7691
+epoch 112/150 train_loss=0.9283
+epoch 113/150 train_loss=0.9258
+epoch 114/150 train_loss=0.9248 test_acc=0.7701
+epoch 115/150 train_loss=0.9228
+epoch 116/150 train_loss=0.9251
+epoch 117/150 train_loss=0.9237 test_acc=0.7690
+epoch 118/150 train_loss=0.9239
+epoch 119/150 train_loss=0.9189
+epoch 120/150 train_loss=0.9178 test_acc=0.7735
+epoch 121/150 train_loss=0.9185
+epoch 122/150 train_loss=0.9149
+epoch 123/150 train_loss=0.9128 test_acc=0.7727
+epoch 124/150 train_loss=0.9159
+epoch 125/150 train_loss=0.9169
+epoch 126/150 train_loss=0.9106 test_acc=0.7715
+epoch 127/150 train_loss=0.9121
+epoch 128/150 train_loss=0.9129
+epoch 129/150 train_loss=0.9139 test_acc=0.7736
+epoch 130/150 train_loss=0.9136
+epoch 131/150 train_loss=0.9119
+epoch 132/150 train_loss=0.9158 test_acc=0.7721
+epoch 133/150 train_loss=0.9101
+epoch 134/150 train_loss=0.9128
+epoch 135/150 train_loss=0.9137 test_acc=0.7703
+epoch 136/150 train_loss=0.9092
+epoch 137/150 train_loss=0.9099
+epoch 138/150 train_loss=0.9105 test_acc=0.7716
+epoch 139/150 train_loss=0.9081
+epoch 140/150 train_loss=0.9085
+epoch 141/150 train_loss=0.9080 test_acc=0.7718
+epoch 142/150 train_loss=0.9104
+epoch 143/150 train_loss=0.9075
+epoch 144/150 train_loss=0.9070 test_acc=0.7714
+epoch 145/150 train_loss=0.9068
+epoch 146/150 train_loss=0.9074
+epoch 147/150 train_loss=0.9068 test_acc=0.7717
+epoch 148/150 train_loss=0.9083
+epoch 149/150 train_loss=0.9042
+epoch 150/150 train_loss=0.9026 test_acc=0.7723
+[cls_cifar10_pyramidal_single_level_ch=18_seed=3] {"best_acc": 0.7736, "final_acc": 0.7723, "seed": 3, "params": 88552, "train_time_s": 792.3}
+[cls_cifar10_pyramidal_single_level_ch=18_seed=4] params=88552 device=cpu
+epoch 1/150 train_loss=1.8175
+epoch 2/150 train_loss=1.6100
+epoch 3/150 train_loss=1.5295 test_acc=0.5510
+epoch 4/150 train_loss=1.4766
+epoch 5/150 train_loss=1.4277
+epoch 6/150 train_loss=1.3900 test_acc=0.6244
+epoch 7/150 train_loss=1.3644
+epoch 8/150 train_loss=1.3389
+epoch 9/150 train_loss=1.3185 test_acc=0.6383
+epoch 10/150 train_loss=1.3053
+epoch 11/150 train_loss=1.2881
+epoch 12/150 train_loss=1.2709 test_acc=0.6591
+epoch 13/150 train_loss=1.2589
+epoch 14/150 train_loss=1.2421
+epoch 15/150 train_loss=1.2353 test_acc=0.6753
+epoch 16/150 train_loss=1.2228
+epoch 17/150 train_loss=1.2186
+epoch 18/150 train_loss=1.2037 test_acc=0.6866
+epoch 19/150 train_loss=1.1997
+epoch 20/150 train_loss=1.1916
+epoch 21/150 train_loss=1.1807 test_acc=0.7047
+epoch 22/150 train_loss=1.1744
+epoch 23/150 train_loss=1.1700
+epoch 24/150 train_loss=1.1598 test_acc=0.7074
+epoch 25/150 train_loss=1.1548
+epoch 26/150 train_loss=1.1437
+epoch 27/150 train_loss=1.1405 test_acc=0.7073
+epoch 28/150 train_loss=1.1383
+epoch 29/150 train_loss=1.1313
+epoch 30/150 train_loss=1.1266 test_acc=0.7224
+epoch 31/150 train_loss=1.1228
+epoch 32/150 train_loss=1.1185
+epoch 33/150 train_loss=1.1112 test_acc=0.7256
+epoch 34/150 train_loss=1.1074
+epoch 35/150 train_loss=1.1045
+epoch 36/150 train_loss=1.0983 test_acc=0.7411
+epoch 37/150 train_loss=1.0949
+epoch 38/150 train_loss=1.0906
+epoch 39/150 train_loss=1.0849 test_acc=0.7387
+epoch 40/150 train_loss=1.0854
+epoch 41/150 train_loss=1.0782
+epoch 42/150 train_loss=1.0794 test_acc=0.7360
+epoch 43/150 train_loss=1.0697
+epoch 44/150 train_loss=1.0664
+epoch 45/150 train_loss=1.0599 test_acc=0.7389
+epoch 46/150 train_loss=1.0626
+epoch 47/150 train_loss=1.0561
+epoch 48/150 train_loss=1.0562 test_acc=0.7461
+epoch 49/150 train_loss=1.0525
+epoch 50/150 train_loss=1.0492
+epoch 51/150 train_loss=1.0461 test_acc=0.7433
+epoch 52/150 train_loss=1.0479
+epoch 53/150 train_loss=1.0391
+epoch 54/150 train_loss=1.0336 test_acc=0.7518
+epoch 55/150 train_loss=1.0320
+epoch 56/150 train_loss=1.0335
+epoch 57/150 train_loss=1.0288 test_acc=0.7520
+epoch 58/150 train_loss=1.0295
+epoch 59/150 train_loss=1.0210
+epoch 60/150 train_loss=1.0208 test_acc=0.7573
+epoch 61/150 train_loss=1.0192
+epoch 62/150 train_loss=1.0150
+epoch 63/150 train_loss=1.0171 test_acc=0.7616
+epoch 64/150 train_loss=1.0043
+epoch 65/150 train_loss=1.0072
+epoch 66/150 train_loss=1.0089 test_acc=0.7531
+epoch 67/150 train_loss=1.0043
+epoch 68/150 train_loss=1.0026
+epoch 69/150 train_loss=0.9997 test_acc=0.7672
+epoch 70/150 train_loss=0.9952
+epoch 71/150 train_loss=0.9939
+epoch 72/150 train_loss=0.9910 test_acc=0.7679
+epoch 73/150 train_loss=0.9867
+epoch 74/150 train_loss=0.9895
+epoch 75/150 train_loss=0.9880 test_acc=0.7692
+epoch 76/150 train_loss=0.9844
+epoch 77/150 train_loss=0.9816
+epoch 78/150 train_loss=0.9784 test_acc=0.7635
+epoch 79/150 train_loss=0.9762
+epoch 80/150 train_loss=0.9745
+epoch 81/150 train_loss=0.9742 test_acc=0.7682
+epoch 82/150 train_loss=0.9713
+epoch 83/150 train_loss=0.9717
+epoch 84/150 train_loss=0.9686 test_acc=0.7647
+epoch 85/150 train_loss=0.9647
+epoch 86/150 train_loss=0.9641
+epoch 87/150 train_loss=0.9624 test_acc=0.7722
+epoch 88/150 train_loss=0.9601
+epoch 89/150 train_loss=0.9587
+epoch 90/150 train_loss=0.9565 test_acc=0.7710
+epoch 91/150 train_loss=0.9546
+epoch 92/150 train_loss=0.9538
+epoch 93/150 train_loss=0.9552 test_acc=0.7701
+epoch 94/150 train_loss=0.9479
+epoch 95/150 train_loss=0.9505
+epoch 96/150 train_loss=0.9471 test_acc=0.7767
+epoch 97/150 train_loss=0.9465
+epoch 98/150 train_loss=0.9442
+epoch 99/150 train_loss=0.9400 test_acc=0.7756
+epoch 100/150 train_loss=0.9433
+epoch 101/150 train_loss=0.9410
+epoch 102/150 train_loss=0.9386 test_acc=0.7733
+epoch 103/150 train_loss=0.9359
+epoch 104/150 train_loss=0.9354
+epoch 105/150 train_loss=0.9339 test_acc=0.7773
+epoch 106/150 train_loss=0.9350
+epoch 107/150 train_loss=0.9305
+epoch 108/150 train_loss=0.9321 test_acc=0.7776
+epoch 109/150 train_loss=0.9296
+epoch 110/150 train_loss=0.9289
+epoch 111/150 train_loss=0.9284 test_acc=0.7808
+epoch 112/150 train_loss=0.9259
+epoch 113/150 train_loss=0.9283
+epoch 114/150 train_loss=0.9274 test_acc=0.7782
+epoch 115/150 train_loss=0.9232
+epoch 116/150 train_loss=0.9212
+epoch 117/150 train_loss=0.9233 test_acc=0.7803
+epoch 118/150 train_loss=0.9205
+epoch 119/150 train_loss=0.9214
+epoch 120/150 train_loss=0.9204 test_acc=0.7845
+epoch 121/150 train_loss=0.9171
+epoch 122/150 train_loss=0.9153
+epoch 123/150 train_loss=0.9149 test_acc=0.7828
+epoch 124/150 train_loss=0.9181
+epoch 125/150 train_loss=0.9147
+epoch 126/150 train_loss=0.9160 test_acc=0.7824
+epoch 127/150 train_loss=0.9159
+epoch 128/150 train_loss=0.9113
+epoch 129/150 train_loss=0.9149 test_acc=0.7820
+epoch 130/150 train_loss=0.9113
+epoch 131/150 train_loss=0.9111
+epoch 132/150 train_loss=0.9121 test_acc=0.7825
+epoch 133/150 train_loss=0.9091
+epoch 134/150 train_loss=0.9111
+epoch 135/150 train_loss=0.9089 test_acc=0.7827
+epoch 136/150 train_loss=0.9089
+epoch 137/150 train_loss=0.9095
+epoch 138/150 train_loss=0.9049 test_acc=0.7836
+epoch 139/150 train_loss=0.9091
+epoch 140/150 train_loss=0.9087
+epoch 141/150 train_loss=0.9093 test_acc=0.7830
+epoch 142/150 train_loss=0.9067
+epoch 143/150 train_loss=0.9082
+epoch 144/150 train_loss=0.9098 test_acc=0.7839
+epoch 145/150 train_loss=0.9029
+epoch 146/150 train_loss=0.9063
+epoch 147/150 train_loss=0.9084 test_acc=0.7848
+epoch 148/150 train_loss=0.9079
+epoch 149/150 train_loss=0.9075
+epoch 150/150 train_loss=0.9093 test_acc=0.7820
+[cls_cifar10_pyramidal_single_level_ch=18_seed=4] {"best_acc": 0.7848, "final_acc": 0.782, "seed": 4, "params": 88552, "train_time_s": 799.3}
+final acc over 2 seed(s): 0.7772 +- 0.0069

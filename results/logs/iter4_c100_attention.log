@@ -1,0 +1,7 @@
+[cls_cifar100_pyramidal_attention_seed=0] params=99906 device=cpu
+[cls_cifar100_pyramidal_attention_seed=0] {"best_acc": 0.4436, "final_acc": 0.4436, "seed": 0, "params": 99906, "train_time_s": 1403.9}
+[cls_cifar100_pyramidal_attention_seed=1] params=99906 device=cpu
+[cls_cifar100_pyramidal_attention_seed=1] {"best_acc": 0.4462, "final_acc": 0.4438, "seed": 1, "params": 99906, "train_time_s": 1429.5}
+[cls_cifar100_pyramidal_attention_seed=2] params=99906 device=cpu
+[cls_cifar100_pyramidal_attention_seed=2] {"best_acc": 0.456, "final_acc": 0.4558, "seed": 2, "params": 99906, "train_time_s": 1407.9}
+final acc over 3 seed(s): 0.4477 +- 0.0070

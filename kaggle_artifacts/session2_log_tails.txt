@@ -1,0 +1,396 @@
+[pyrsinglelevl_ch66]     train=2975 val=500 device=cuda
+[cityscapes_pyramidal_single_level_ch=66_seed=0] params=259681
+[pyramidal_ch64] train=2975 val=500 device=cuda
+[cityscapes_pyramidal_ch=64_zshared_lvlnorm_seed=0] params=258470
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     [cityscapes_pyramidal_single_level_ch=66_seed=0] params=259681
+epoch 1/60 train_loss=1.1662
+[pyramidal_ch64] [cityscapes_pyramidal_ch=64_zshared_lvlnorm_seed=0] params=258470
+epoch 1/60 train_loss=1.1304
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 1/60 train_loss=1.1662
+epoch 2/60 train_loss=0.9494
+[pyramidal_ch64] epoch 1/60 train_loss=1.1304
+epoch 2/60 train_loss=0.9284
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 2/60 train_loss=0.9494
+epoch 3/60 train_loss=0.8504
+[pyramidal_ch64] epoch 2/60 train_loss=0.9284
+epoch 3/60 train_loss=0.8227
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 3/60 train_loss=0.8504
+epoch 4/60 train_loss=0.8156
+[pyramidal_ch64] epoch 3/60 train_loss=0.8227
+epoch 4/60 train_loss=0.7810
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 3/60 train_loss=0.8504
+epoch 4/60 train_loss=0.8156
+[pyramidal_ch64] epoch 3/60 train_loss=0.8227
+epoch 4/60 train_loss=0.7810
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 4/60 train_loss=0.8156
+epoch 5/60 train_loss=0.7584 val_loss=0.8011 miou=0.2326 pixel_acc=0.7715
+[pyramidal_ch64] epoch 4/60 train_loss=0.7810
+epoch 5/60 train_loss=0.7505 val_loss=0.9688 miou=0.2108 pixel_acc=0.7230
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 5/60 train_loss=0.7584 val_loss=0.8011 miou=0.2326 pixel_acc=0.7715
+epoch 6/60 train_loss=0.7492
+[pyramidal_ch64] epoch 5/60 train_loss=0.7505 val_loss=0.9688 miou=0.2108 pixel_acc=0.7230
+epoch 6/60 train_loss=0.7342
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 6/60 train_loss=0.7492
+epoch 7/60 train_loss=0.7144
+[pyramidal_ch64] epoch 6/60 train_loss=0.7342
+epoch 7/60 train_loss=0.6757
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 7/60 train_loss=0.7144
+epoch 8/60 train_loss=0.6926
+[pyramidal_ch64] epoch 6/60 train_loss=0.7342
+epoch 7/60 train_loss=0.6757
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 8/60 train_loss=0.6926
+epoch 9/60 train_loss=0.6863
+[pyramidal_ch64] epoch 7/60 train_loss=0.6757
+epoch 8/60 train_loss=0.6794
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 8/60 train_loss=0.6926
+epoch 9/60 train_loss=0.6863
+[pyramidal_ch64] epoch 8/60 train_loss=0.6794
+epoch 9/60 train_loss=0.6661
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 9/60 train_loss=0.6863
+epoch 10/60 train_loss=0.6780 val_loss=0.6275 miou=0.2676 pixel_acc=0.8155
+[pyramidal_ch64] epoch 8/60 train_loss=0.6794
+epoch 9/60 train_loss=0.6661
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 10/60 train_loss=0.6780 val_loss=0.6275 miou=0.2676 pixel_acc=0.8155
+epoch 11/60 train_loss=0.6563
+[pyramidal_ch64] epoch 9/60 train_loss=0.6661
+epoch 10/60 train_loss=0.6449 val_loss=0.6609 miou=0.2695 pixel_acc=0.8051
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 11/60 train_loss=0.6563
+epoch 12/60 train_loss=0.6441
+[pyramidal_ch64] epoch 10/60 train_loss=0.6449 val_loss=0.6609 miou=0.2695 pixel_acc=0.8051
+epoch 11/60 train_loss=0.6324
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 12/60 train_loss=0.6441
+epoch 13/60 train_loss=0.6228
+[pyramidal_ch64] epoch 11/60 train_loss=0.6324
+epoch 12/60 train_loss=0.6061
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 13/60 train_loss=0.6228
+epoch 14/60 train_loss=0.6119
+[pyramidal_ch64] epoch 12/60 train_loss=0.6061
+epoch 13/60 train_loss=0.5957
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 14/60 train_loss=0.6119
+epoch 15/60 train_loss=0.6193 val_loss=0.6327 miou=0.2892 pixel_acc=0.8100
+[pyramidal_ch64] epoch 13/60 train_loss=0.5957
+epoch 14/60 train_loss=0.5762
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 15/60 train_loss=0.6193 val_loss=0.6327 miou=0.2892 pixel_acc=0.8100
+epoch 16/60 train_loss=0.5920
+[pyramidal_ch64] epoch 13/60 train_loss=0.5957
+epoch 14/60 train_loss=0.5762
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 16/60 train_loss=0.5920
+epoch 17/60 train_loss=0.5844
+[pyramidal_ch64] epoch 14/60 train_loss=0.5762
+epoch 15/60 train_loss=0.5617 val_loss=0.6396 miou=0.2940 pixel_acc=0.8094
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 16/60 train_loss=0.5920
+epoch 17/60 train_loss=0.5844
+[pyramidal_ch64] epoch 15/60 train_loss=0.5617 val_loss=0.6396 miou=0.2940 pixel_acc=0.8094
+epoch 16/60 train_loss=0.5836
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 17/60 train_loss=0.5844
+epoch 18/60 train_loss=0.5797
+[pyramidal_ch64] epoch 15/60 train_loss=0.5617 val_loss=0.6396 miou=0.2940 pixel_acc=0.8094
+epoch 16/60 train_loss=0.5836
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 18/60 train_loss=0.5797
+epoch 19/60 train_loss=0.5748
+[pyramidal_ch64] epoch 16/60 train_loss=0.5836
+epoch 17/60 train_loss=0.5683
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 19/60 train_loss=0.5748
+epoch 20/60 train_loss=0.5747 val_loss=0.6496 miou=0.2872 pixel_acc=0.8079
+[pyramidal_ch64] epoch 17/60 train_loss=0.5683
+epoch 18/60 train_loss=0.5478
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 20/60 train_loss=0.5747 val_loss=0.6496 miou=0.2872 pixel_acc=0.8079
+epoch 21/60 train_loss=0.5678
+[pyramidal_ch64] epoch 18/60 train_loss=0.5478
+epoch 19/60 train_loss=0.5432
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 21/60 train_loss=0.5678
+epoch 22/60 train_loss=0.5671
+[pyramidal_ch64] epoch 18/60 train_loss=0.5478
+epoch 19/60 train_loss=0.5432
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 22/60 train_loss=0.5671
+epoch 23/60 train_loss=0.5567
+[pyramidal_ch64] epoch 19/60 train_loss=0.5432
+epoch 20/60 train_loss=0.5443 val_loss=0.7514 miou=0.2714 pixel_acc=0.7770
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 23/60 train_loss=0.5567
+epoch 24/60 train_loss=0.5512
+[pyramidal_ch64] epoch 20/60 train_loss=0.5443 val_loss=0.7514 miou=0.2714 pixel_acc=0.7770
+epoch 21/60 train_loss=0.5379
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 23/60 train_loss=0.5567
+epoch 24/60 train_loss=0.5512
+[pyramidal_ch64] epoch 21/60 train_loss=0.5379
+epoch 22/60 train_loss=0.5361
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 24/60 train_loss=0.5512
+epoch 25/60 train_loss=0.5528 val_loss=0.5049 miou=0.3220 pixel_acc=0.8505
+[pyramidal_ch64] epoch 22/60 train_loss=0.5361
+epoch 23/60 train_loss=0.5258
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 25/60 train_loss=0.5528 val_loss=0.5049 miou=0.3220 pixel_acc=0.8505
+epoch 26/60 train_loss=0.5348
+[pyramidal_ch64] epoch 23/60 train_loss=0.5258
+epoch 24/60 train_loss=0.5248
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 26/60 train_loss=0.5348
+epoch 27/60 train_loss=0.5258
+[pyramidal_ch64] epoch 23/60 train_loss=0.5258
+epoch 24/60 train_loss=0.5248
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 27/60 train_loss=0.5258
+epoch 28/60 train_loss=0.5265
+[pyramidal_ch64] epoch 24/60 train_loss=0.5248
+epoch 25/60 train_loss=0.5188 val_loss=0.5871 miou=0.3024 pixel_acc=0.8239
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 28/60 train_loss=0.5265
+epoch 29/60 train_loss=0.5210
+[pyramidal_ch64] epoch 25/60 train_loss=0.5188 val_loss=0.5871 miou=0.3024 pixel_acc=0.8239
+epoch 26/60 train_loss=0.5089
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 28/60 train_loss=0.5265
+epoch 29/60 train_loss=0.5210
+[pyramidal_ch64] epoch 25/60 train_loss=0.5188 val_loss=0.5871 miou=0.3024 pixel_acc=0.8239
+epoch 26/60 train_loss=0.5089
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 29/60 train_loss=0.5210
+epoch 30/60 train_loss=0.5163 val_loss=0.6400 miou=0.2944 pixel_acc=0.8108
+[pyramidal_ch64] epoch 26/60 train_loss=0.5089
+epoch 27/60 train_loss=0.5073
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 30/60 train_loss=0.5163 val_loss=0.6400 miou=0.2944 pixel_acc=0.8108
+epoch 31/60 train_loss=0.5151
+[pyramidal_ch64] epoch 27/60 train_loss=0.5073
+epoch 28/60 train_loss=0.5001
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 31/60 train_loss=0.5151
+epoch 32/60 train_loss=0.5032
+[pyramidal_ch64] epoch 28/60 train_loss=0.5001
+epoch 29/60 train_loss=0.5047
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 32/60 train_loss=0.5032
+epoch 33/60 train_loss=0.5098
+[pyramidal_ch64] epoch 28/60 train_loss=0.5001
+epoch 29/60 train_loss=0.5047
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 33/60 train_loss=0.5098
+epoch 34/60 train_loss=0.4993
+[pyramidal_ch64] epoch 29/60 train_loss=0.5047
+epoch 30/60 train_loss=0.4869 val_loss=0.5094 miou=0.3393 pixel_acc=0.8472
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 34/60 train_loss=0.4993
+epoch 35/60 train_loss=0.5026 val_loss=0.5171 miou=0.3234 pixel_acc=0.8442
+[pyramidal_ch64] epoch 30/60 train_loss=0.4869 val_loss=0.5094 miou=0.3393 pixel_acc=0.8472
+epoch 31/60 train_loss=0.4849
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 34/60 train_loss=0.4993
+epoch 35/60 train_loss=0.5026 val_loss=0.5171 miou=0.3234 pixel_acc=0.8442
+[pyramidal_ch64] epoch 31/60 train_loss=0.4849
+epoch 32/60 train_loss=0.4807
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 35/60 train_loss=0.5026 val_loss=0.5171 miou=0.3234 pixel_acc=0.8442
+epoch 36/60 train_loss=0.4982
+[pyramidal_ch64] epoch 32/60 train_loss=0.4807
+epoch 33/60 train_loss=0.4888
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 36/60 train_loss=0.4982
+epoch 37/60 train_loss=0.4823
+[pyramidal_ch64] epoch 33/60 train_loss=0.4888
+epoch 34/60 train_loss=0.4726
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 37/60 train_loss=0.4823
+epoch 38/60 train_loss=0.4929
+[pyramidal_ch64] epoch 33/60 train_loss=0.4888
+epoch 34/60 train_loss=0.4726
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 38/60 train_loss=0.4929
+epoch 39/60 train_loss=0.4832
+[pyramidal_ch64] epoch 34/60 train_loss=0.4726
+epoch 35/60 train_loss=0.4730 val_loss=0.5804 miou=0.3335 pixel_acc=0.8198
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 39/60 train_loss=0.4832
+epoch 40/60 train_loss=0.4771 val_loss=0.4354 miou=0.3609 pixel_acc=0.8705
+[pyramidal_ch64] epoch 35/60 train_loss=0.4730 val_loss=0.5804 miou=0.3335 pixel_acc=0.8198
+epoch 36/60 train_loss=0.4617
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 40/60 train_loss=0.4771 val_loss=0.4354 miou=0.3609 pixel_acc=0.8705
+epoch 41/60 train_loss=0.4896
+[pyramidal_ch64] epoch 35/60 train_loss=0.4730 val_loss=0.5804 miou=0.3335 pixel_acc=0.8198
+epoch 36/60 train_loss=0.4617
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 41/60 train_loss=0.4896
+epoch 42/60 train_loss=0.4822
+[pyramidal_ch64] epoch 36/60 train_loss=0.4617
+epoch 37/60 train_loss=0.4589
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 41/60 train_loss=0.4896
+epoch 42/60 train_loss=0.4822
+[pyramidal_ch64] epoch 37/60 train_loss=0.4589
+epoch 38/60 train_loss=0.4573
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 42/60 train_loss=0.4822
+epoch 43/60 train_loss=0.4759
+[pyramidal_ch64] epoch 38/60 train_loss=0.4573
+epoch 39/60 train_loss=0.4540
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 43/60 train_loss=0.4759
+epoch 44/60 train_loss=0.4674
+[pyramidal_ch64] epoch 38/60 train_loss=0.4573
+epoch 39/60 train_loss=0.4540
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 44/60 train_loss=0.4674
+epoch 45/60 train_loss=0.4657 val_loss=0.4320 miou=0.3634 pixel_acc=0.8710
+[pyramidal_ch64] epoch 39/60 train_loss=0.4540
+epoch 40/60 train_loss=0.4516 val_loss=0.4743 miou=0.3540 pixel_acc=0.8573
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 45/60 train_loss=0.4657 val_loss=0.4320 miou=0.3634 pixel_acc=0.8710
+epoch 46/60 train_loss=0.4721
+[pyramidal_ch64] epoch 40/60 train_loss=0.4516 val_loss=0.4743 miou=0.3540 pixel_acc=0.8573
+epoch 41/60 train_loss=0.4490
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 46/60 train_loss=0.4721
+epoch 47/60 train_loss=0.4500
+[pyramidal_ch64] epoch 41/60 train_loss=0.4490
+epoch 42/60 train_loss=0.4495
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 47/60 train_loss=0.4500
+epoch 48/60 train_loss=0.4569
+[pyramidal_ch64] epoch 42/60 train_loss=0.4495
+epoch 43/60 train_loss=0.4415
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 48/60 train_loss=0.4569
+epoch 49/60 train_loss=0.4675
+[pyramidal_ch64] epoch 42/60 train_loss=0.4495
+epoch 43/60 train_loss=0.4415
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 48/60 train_loss=0.4569
+epoch 49/60 train_loss=0.4675
+[pyramidal_ch64] epoch 43/60 train_loss=0.4415
+epoch 44/60 train_loss=0.4386
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 49/60 train_loss=0.4675
+epoch 50/60 train_loss=0.4540 val_loss=0.4470 miou=0.3572 pixel_acc=0.8666
+[pyramidal_ch64] epoch 44/60 train_loss=0.4386
+epoch 45/60 train_loss=0.4299 val_loss=0.4984 miou=0.3575 pixel_acc=0.8505
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 50/60 train_loss=0.4540 val_loss=0.4470 miou=0.3572 pixel_acc=0.8666
+epoch 51/60 train_loss=0.4545
+[pyramidal_ch64] epoch 45/60 train_loss=0.4299 val_loss=0.4984 miou=0.3575 pixel_acc=0.8505
+epoch 46/60 train_loss=0.4325
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 51/60 train_loss=0.4545
+epoch 52/60 train_loss=0.4551
+[pyramidal_ch64] epoch 45/60 train_loss=0.4299 val_loss=0.4984 miou=0.3575 pixel_acc=0.8505
+epoch 46/60 train_loss=0.4325
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 52/60 train_loss=0.4551
+epoch 53/60 train_loss=0.4507
+[pyramidal_ch64] epoch 46/60 train_loss=0.4325
+epoch 47/60 train_loss=0.4390
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 53/60 train_loss=0.4507
+epoch 54/60 train_loss=0.4529
+[pyramidal_ch64] epoch 47/60 train_loss=0.4390
+epoch 48/60 train_loss=0.4239
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 53/60 train_loss=0.4507
+epoch 54/60 train_loss=0.4529
+[pyramidal_ch64] epoch 48/60 train_loss=0.4239
+epoch 49/60 train_loss=0.4381
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 54/60 train_loss=0.4529
+epoch 55/60 train_loss=0.4365 val_loss=0.4308 miou=0.3686 pixel_acc=0.8718
+[pyramidal_ch64] epoch 48/60 train_loss=0.4239
+epoch 49/60 train_loss=0.4381
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 55/60 train_loss=0.4365 val_loss=0.4308 miou=0.3686 pixel_acc=0.8718
+epoch 56/60 train_loss=0.4529
+[pyramidal_ch64] epoch 49/60 train_loss=0.4381
+epoch 50/60 train_loss=0.4275 val_loss=0.4750 miou=0.3659 pixel_acc=0.8588
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 56/60 train_loss=0.4529
+epoch 57/60 train_loss=0.4496
+[pyramidal_ch64] epoch 50/60 train_loss=0.4275 val_loss=0.4750 miou=0.3659 pixel_acc=0.8588
+epoch 51/60 train_loss=0.4319
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 57/60 train_loss=0.4496
+epoch 58/60 train_loss=0.4556
+[pyramidal_ch64] epoch 51/60 train_loss=0.4319
+epoch 52/60 train_loss=0.4114
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 58/60 train_loss=0.4556
+epoch 59/60 train_loss=0.4467
+[pyramidal_ch64] epoch 52/60 train_loss=0.4114
+epoch 53/60 train_loss=0.4216
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 52/60 train_loss=0.4114
+epoch 53/60 train_loss=0.4216
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 53/60 train_loss=0.4216
+epoch 54/60 train_loss=0.4233
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 54/60 train_loss=0.4233
+epoch 55/60 train_loss=0.4242 val_loss=0.4558 miou=0.3696 pixel_acc=0.8634
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 55/60 train_loss=0.4242 val_loss=0.4558 miou=0.3696 pixel_acc=0.8634
+epoch 56/60 train_loss=0.4274
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 55/60 train_loss=0.4242 val_loss=0.4558 miou=0.3696 pixel_acc=0.8634
+epoch 56/60 train_loss=0.4274
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 56/60 train_loss=0.4274
+epoch 57/60 train_loss=0.4196
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 57/60 train_loss=0.4196
+epoch 58/60 train_loss=0.4227
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 58/60 train_loss=0.4227
+epoch 59/60 train_loss=0.4302
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 58/60 train_loss=0.4227
+epoch 59/60 train_loss=0.4302
+------------------------------------------------------------
+[pyrsinglelevl_ch66]     epoch 60/60 train_loss=0.4459 val_loss=0.4218 miou=0.3693 pixel_acc=0.8743
+[cityscapes_pyramidal_single_level_ch=66_seed=0] {"best": {"miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "final": {"loss": 0.4217863491475582, "miou": 0.3692622482776642, "pixel_acc": 0.8742902074104237}, "seed": 0, "params": 259681, "train_time_s": 20978.5}
+[pyramidal_ch64] epoch 60/60 train_loss=0.4257 val_loss=0.4668 miou=0.3709 pixel_acc=0.8604
+[cityscapes_pyramidal_ch=64_zshared_lvlnorm_seed=0] {"best": {"miou": 0.3709350824356079, "pixel_acc": 0.8634108460059747}, "final": {"loss": 0.4668326766639948, "miou": 0.3709350824356079, "pixel_acc": 0.8603917699955237}, "seed": 0, "params": 258470, "train_time_s": 23470.4}
+exit codes: 0 0
+

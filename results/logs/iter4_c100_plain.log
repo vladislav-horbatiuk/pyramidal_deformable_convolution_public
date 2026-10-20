@@ -1,0 +1,7 @@
+[cls_cifar100_plain_conv_seed=0] params=91260 device=cpu
+[cls_cifar100_plain_conv_seed=0] {"best_acc": 0.4284, "final_acc": 0.4265, "seed": 0, "params": 91260, "train_time_s": 658.1}
+[cls_cifar100_plain_conv_seed=1] params=91260 device=cpu
+[cls_cifar100_plain_conv_seed=1] {"best_acc": 0.4338, "final_acc": 0.4317, "seed": 1, "params": 91260, "train_time_s": 543.5}
+[cls_cifar100_plain_conv_seed=2] params=91260 device=cpu
+[cls_cifar100_plain_conv_seed=2] {"best_acc": 0.4405, "final_acc": 0.4399, "seed": 2, "params": 91260, "train_time_s": 643.5}
+final acc over 3 seed(s): 0.4327 +- 0.0068

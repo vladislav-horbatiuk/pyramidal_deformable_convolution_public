@@ -1,0 +1,311 @@
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=0] params=18260 device=cpu
+epoch 1/60 train_loss=0.5187
+epoch 2/60 train_loss=0.4209
+epoch 3/60 train_loss=0.3946
+epoch 4/60 train_loss=0.3775
+epoch 5/60 train_loss=0.3619 dice=0.7888 bf1=0.5700
+epoch 6/60 train_loss=0.3482
+epoch 7/60 train_loss=0.3357
+epoch 8/60 train_loss=0.3282
+epoch 9/60 train_loss=0.3205
+epoch 10/60 train_loss=0.3114 dice=0.8025 bf1=0.6429
+epoch 11/60 train_loss=0.3040
+epoch 12/60 train_loss=0.2994
+epoch 13/60 train_loss=0.2995
+epoch 14/60 train_loss=0.2939
+epoch 15/60 train_loss=0.2900 dice=0.8355 bf1=0.6493
+epoch 16/60 train_loss=0.2846
+epoch 17/60 train_loss=0.2807
+epoch 18/60 train_loss=0.2783
+epoch 19/60 train_loss=0.2791
+epoch 20/60 train_loss=0.2762 dice=0.8226 bf1=0.5912
+epoch 21/60 train_loss=0.2754
+epoch 22/60 train_loss=0.2708
+epoch 23/60 train_loss=0.2694
+epoch 24/60 train_loss=0.2679
+epoch 25/60 train_loss=0.2665 dice=0.8512 bf1=0.6823
+epoch 26/60 train_loss=0.2659
+epoch 27/60 train_loss=0.2634
+epoch 28/60 train_loss=0.2649
+epoch 29/60 train_loss=0.2614
+epoch 30/60 train_loss=0.2588 dice=0.8482 bf1=0.6687
+epoch 31/60 train_loss=0.2583
+epoch 32/60 train_loss=0.2599
+epoch 33/60 train_loss=0.2570
+epoch 34/60 train_loss=0.2547
+epoch 35/60 train_loss=0.2543 dice=0.8474 bf1=0.7004
+epoch 36/60 train_loss=0.2537
+epoch 37/60 train_loss=0.2522
+epoch 38/60 train_loss=0.2527
+epoch 39/60 train_loss=0.2514
+epoch 40/60 train_loss=0.2506 dice=0.8529 bf1=0.7098
+epoch 41/60 train_loss=0.2504
+epoch 42/60 train_loss=0.2482
+epoch 43/60 train_loss=0.2482
+epoch 44/60 train_loss=0.2487
+epoch 45/60 train_loss=0.2492 dice=0.8557 bf1=0.7102
+epoch 46/60 train_loss=0.2473
+epoch 47/60 train_loss=0.2473
+epoch 48/60 train_loss=0.2459
+epoch 49/60 train_loss=0.2460
+epoch 50/60 train_loss=0.2451 dice=0.8583 bf1=0.7120
+epoch 51/60 train_loss=0.2456
+epoch 52/60 train_loss=0.2446
+epoch 53/60 train_loss=0.2437
+epoch 54/60 train_loss=0.2454
+epoch 55/60 train_loss=0.2451 dice=0.8599 bf1=0.7099
+epoch 56/60 train_loss=0.2435
+epoch 57/60 train_loss=0.2442
+epoch 58/60 train_loss=0.2441
+epoch 59/60 train_loss=0.2436
+epoch 60/60 train_loss=0.2432 dice=0.8596 bf1=0.7118
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=0] {"best": {"dice": 0.8599312978182909, "iou": 0.7542802430877107, "boundary_f1": 0.7119730649323299}, "final": {"loss": 0.24296785223072973, "dice": 0.8596278670193478, "iou": 0.7538134633056243, "boundary_f1": 0.7117789716556154}, "seed": 0, "params": 18260, "train_time_s": 3250.0}
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=1] params=18260 device=cpu
+epoch 1/60 train_loss=0.5186
+epoch 2/60 train_loss=0.4125
+epoch 3/60 train_loss=0.3871
+epoch 4/60 train_loss=0.3678
+epoch 5/60 train_loss=0.3507 dice=0.7935 bf1=0.5892
+epoch 6/60 train_loss=0.3398
+epoch 7/60 train_loss=0.3270
+epoch 8/60 train_loss=0.3167
+epoch 9/60 train_loss=0.3098
+epoch 10/60 train_loss=0.3087 dice=0.8247 bf1=0.6302
+epoch 11/60 train_loss=0.2972
+epoch 12/60 train_loss=0.2994
+epoch 13/60 train_loss=0.2897
+epoch 14/60 train_loss=0.2845
+epoch 15/60 train_loss=0.2816 dice=0.8193 bf1=0.5905
+epoch 16/60 train_loss=0.2809
+epoch 17/60 train_loss=0.2771
+epoch 18/60 train_loss=0.2750
+epoch 19/60 train_loss=0.2758
+epoch 20/60 train_loss=0.2699 dice=0.8474 bf1=0.6768
+epoch 21/60 train_loss=0.2650
+epoch 22/60 train_loss=0.2640
+epoch 23/60 train_loss=0.2672
+epoch 24/60 train_loss=0.2639
+epoch 25/60 train_loss=0.2613 dice=0.8527 bf1=0.6814
+epoch 26/60 train_loss=0.2589
+epoch 27/60 train_loss=0.2586
+epoch 28/60 train_loss=0.2570
+epoch 29/60 train_loss=0.2539
+epoch 30/60 train_loss=0.2537 dice=0.8475 bf1=0.6643
+epoch 31/60 train_loss=0.2531
+epoch 32/60 train_loss=0.2519
+epoch 33/60 train_loss=0.2511
+epoch 34/60 train_loss=0.2485
+epoch 35/60 train_loss=0.2506 dice=0.8589 bf1=0.7041
+epoch 36/60 train_loss=0.2515
+epoch 37/60 train_loss=0.2474
+epoch 38/60 train_loss=0.2457
+epoch 39/60 train_loss=0.2443
+epoch 40/60 train_loss=0.2452 dice=0.8619 bf1=0.7047
+epoch 41/60 train_loss=0.2443
+epoch 42/60 train_loss=0.2440
+epoch 43/60 train_loss=0.2437
+epoch 44/60 train_loss=0.2424
+epoch 45/60 train_loss=0.2406 dice=0.8597 bf1=0.7181
+epoch 46/60 train_loss=0.2411
+epoch 47/60 train_loss=0.2402
+epoch 48/60 train_loss=0.2408
+epoch 49/60 train_loss=0.2419
+epoch 50/60 train_loss=0.2393 dice=0.8629 bf1=0.7128
+epoch 51/60 train_loss=0.2397
+epoch 52/60 train_loss=0.2392
+epoch 53/60 train_loss=0.2410
+epoch 54/60 train_loss=0.2393
+epoch 55/60 train_loss=0.2386 dice=0.8631 bf1=0.7199
+epoch 56/60 train_loss=0.2392
+epoch 57/60 train_loss=0.2395
+epoch 58/60 train_loss=0.2387
+epoch 59/60 train_loss=0.2391
+epoch 60/60 train_loss=0.2374 dice=0.8626 bf1=0.7201
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=1] {"best": {"dice": 0.863113651183391, "iou": 0.7591907951765186, "boundary_f1": 0.7201283944064173}, "final": {"loss": 0.23816319118286, "dice": 0.8626423327144389, "iou": 0.7584617904526518, "boundary_f1": 0.7201283944064173}, "seed": 1, "params": 18260, "train_time_s": 3290.6}
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=2] params=18260 device=cpu
+epoch 1/60 train_loss=0.5097
+epoch 2/60 train_loss=0.4128
+epoch 3/60 train_loss=0.3829
+epoch 4/60 train_loss=0.3633
+epoch 5/60 train_loss=0.3453 dice=0.7973 bf1=0.5608
+epoch 6/60 train_loss=0.3368
+epoch 7/60 train_loss=0.3263
+epoch 8/60 train_loss=0.3180
+epoch 9/60 train_loss=0.3105
+epoch 10/60 train_loss=0.3054 dice=0.8276 bf1=0.6417
+epoch 11/60 train_loss=0.2994
+epoch 12/60 train_loss=0.2935
+epoch 13/60 train_loss=0.2876
+epoch 14/60 train_loss=0.2872
+epoch 15/60 train_loss=0.2830 dice=0.8156 bf1=0.6582
+epoch 16/60 train_loss=0.2779
+epoch 17/60 train_loss=0.2748
+epoch 18/60 train_loss=0.2755
+epoch 19/60 train_loss=0.2718
+epoch 20/60 train_loss=0.2693 dice=0.8506 bf1=0.6857
+epoch 21/60 train_loss=0.2643
+epoch 22/60 train_loss=0.2645
+epoch 23/60 train_loss=0.2624
+epoch 24/60 train_loss=0.2617
+epoch 25/60 train_loss=0.2575 dice=0.8570 bf1=0.6963
+epoch 26/60 train_loss=0.2575
+epoch 27/60 train_loss=0.2563
+epoch 28/60 train_loss=0.2578
+epoch 29/60 train_loss=0.2545
+epoch 30/60 train_loss=0.2561 dice=0.8363 bf1=0.6920
+epoch 31/60 train_loss=0.2516
+epoch 32/60 train_loss=0.2526
+epoch 33/60 train_loss=0.2489
+epoch 34/60 train_loss=0.2476
+epoch 35/60 train_loss=0.2472 dice=0.8545 bf1=0.7106
+epoch 36/60 train_loss=0.2462
+epoch 37/60 train_loss=0.2454
+epoch 38/60 train_loss=0.2443
+epoch 39/60 train_loss=0.2455
+epoch 40/60 train_loss=0.2432 dice=0.8582 bf1=0.7149
+epoch 41/60 train_loss=0.2444
+epoch 42/60 train_loss=0.2428
+epoch 43/60 train_loss=0.2417
+epoch 44/60 train_loss=0.2433
+epoch 45/60 train_loss=0.2411 dice=0.8550 bf1=0.7162
+epoch 46/60 train_loss=0.2397
+epoch 47/60 train_loss=0.2409
+epoch 48/60 train_loss=0.2415
+epoch 49/60 train_loss=0.2399
+epoch 50/60 train_loss=0.2397 dice=0.8650 bf1=0.7187
+epoch 51/60 train_loss=0.2389
+epoch 52/60 train_loss=0.2382
+epoch 53/60 train_loss=0.2389
+epoch 54/60 train_loss=0.2383
+epoch 55/60 train_loss=0.2391 dice=0.8639 bf1=0.7212
+epoch 56/60 train_loss=0.2390
+epoch 57/60 train_loss=0.2378
+epoch 58/60 train_loss=0.2374
+epoch 59/60 train_loss=0.2382
+epoch 60/60 train_loss=0.2377 dice=0.8651 bf1=0.7212
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=2] {"best": {"dice": 0.8650805713011629, "iou": 0.7622396351897681, "boundary_f1": 0.7212008032305487}, "final": {"loss": 0.2342813847393825, "dice": 0.8650805713011629, "iou": 0.7622396351897681, "boundary_f1": 0.7212008032305487}, "seed": 2, "params": 18260, "train_time_s": 3346.0}
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=3] params=18260 device=cpu
+epoch 1/60 train_loss=0.5001
+epoch 2/60 train_loss=0.4179
+epoch 3/60 train_loss=0.3927
+epoch 4/60 train_loss=0.3745
+epoch 5/60 train_loss=0.3636 dice=0.7840 bf1=0.5686
+epoch 6/60 train_loss=0.3533
+epoch 7/60 train_loss=0.3409
+epoch 8/60 train_loss=0.3310
+epoch 9/60 train_loss=0.3247
+epoch 10/60 train_loss=0.3185 dice=0.8144 bf1=0.5932
+epoch 11/60 train_loss=0.3119
+epoch 12/60 train_loss=0.3083
+epoch 13/60 train_loss=0.3002
+epoch 14/60 train_loss=0.2976
+epoch 15/60 train_loss=0.2914 dice=0.7199 bf1=0.5961
+epoch 16/60 train_loss=0.2936
+epoch 17/60 train_loss=0.2861
+epoch 18/60 train_loss=0.2810
+epoch 19/60 train_loss=0.2816
+epoch 20/60 train_loss=0.2796 dice=0.8232 bf1=0.6676
+epoch 21/60 train_loss=0.2789
+epoch 22/60 train_loss=0.2739
+epoch 23/60 train_loss=0.2730
+epoch 24/60 train_loss=0.2710
+epoch 25/60 train_loss=0.2687 dice=0.8397 bf1=0.6897
+epoch 26/60 train_loss=0.2676
+epoch 27/60 train_loss=0.2639
+epoch 28/60 train_loss=0.2624
+epoch 29/60 train_loss=0.2622
+epoch 30/60 train_loss=0.2602 dice=0.8516 bf1=0.6784
+epoch 31/60 train_loss=0.2593
+epoch 32/60 train_loss=0.2562
+epoch 33/60 train_loss=0.2572
+epoch 34/60 train_loss=0.2565
+epoch 35/60 train_loss=0.2546 dice=0.8551 bf1=0.7004
+epoch 36/60 train_loss=0.2533
+epoch 37/60 train_loss=0.2538
+epoch 38/60 train_loss=0.2531
+epoch 39/60 train_loss=0.2513
+epoch 40/60 train_loss=0.2513 dice=0.8563 bf1=0.6875
+epoch 41/60 train_loss=0.2507
+epoch 42/60 train_loss=0.2481
+epoch 43/60 train_loss=0.2488
+epoch 44/60 train_loss=0.2488
+epoch 45/60 train_loss=0.2477 dice=0.8556 bf1=0.7111
+epoch 46/60 train_loss=0.2480
+epoch 47/60 train_loss=0.2460
+epoch 48/60 train_loss=0.2460
+epoch 49/60 train_loss=0.2450
+epoch 50/60 train_loss=0.2447 dice=0.8579 bf1=0.7128
+epoch 51/60 train_loss=0.2446
+epoch 52/60 train_loss=0.2444
+epoch 53/60 train_loss=0.2445
+epoch 54/60 train_loss=0.2436
+epoch 55/60 train_loss=0.2436 dice=0.8572 bf1=0.7134
+epoch 56/60 train_loss=0.2450
+epoch 57/60 train_loss=0.2427
+epoch 58/60 train_loss=0.2437
+epoch 59/60 train_loss=0.2438
+epoch 60/60 train_loss=0.2427 dice=0.8599 bf1=0.7125
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=3] {"best": {"dice": 0.8599279274741312, "iou": 0.7542750569873629, "boundary_f1": 0.7134118491205675}, "final": {"loss": 0.24225290427947865, "dice": 0.8599279274741312, "iou": 0.7542750569873629, "boundary_f1": 0.7125271784848181}, "seed": 3, "params": 18260, "train_time_s": 3264.2}
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=4] params=18260 device=cpu
+epoch 1/60 train_loss=0.5117
+epoch 2/60 train_loss=0.4045
+epoch 3/60 train_loss=0.3755
+epoch 4/60 train_loss=0.3614
+epoch 5/60 train_loss=0.3498 dice=0.7997 bf1=0.6082
+epoch 6/60 train_loss=0.3322
+epoch 7/60 train_loss=0.3239
+epoch 8/60 train_loss=0.3171
+epoch 9/60 train_loss=0.3163
+epoch 10/60 train_loss=0.3061 dice=0.7701 bf1=0.6322
+epoch 11/60 train_loss=0.3047
+epoch 12/60 train_loss=0.2990
+epoch 13/60 train_loss=0.2970
+epoch 14/60 train_loss=0.2942
+epoch 15/60 train_loss=0.2873 dice=0.8322 bf1=0.6612
+epoch 16/60 train_loss=0.2849
+epoch 17/60 train_loss=0.2844
+epoch 18/60 train_loss=0.2801
+epoch 19/60 train_loss=0.2783
+epoch 20/60 train_loss=0.2777 dice=0.8450 bf1=0.6648
+epoch 21/60 train_loss=0.2712
+epoch 22/60 train_loss=0.2737
+epoch 23/60 train_loss=0.2710
+epoch 24/60 train_loss=0.2705
+epoch 25/60 train_loss=0.2667 dice=0.8495 bf1=0.6761
+epoch 26/60 train_loss=0.2682
+epoch 27/60 train_loss=0.2663
+epoch 28/60 train_loss=0.2657
+epoch 29/60 train_loss=0.2606
+epoch 30/60 train_loss=0.2592 dice=0.8389 bf1=0.6994
+epoch 31/60 train_loss=0.2586
+epoch 32/60 train_loss=0.2588
+epoch 33/60 train_loss=0.2605
+epoch 34/60 train_loss=0.2562
+epoch 35/60 train_loss=0.2551 dice=0.8496 bf1=0.7006
+epoch 36/60 train_loss=0.2540
+epoch 37/60 train_loss=0.2540
+epoch 38/60 train_loss=0.2507
+epoch 39/60 train_loss=0.2511
+epoch 40/60 train_loss=0.2517 dice=0.8565 bf1=0.7040
+epoch 41/60 train_loss=0.2512
+epoch 42/60 train_loss=0.2496
+epoch 43/60 train_loss=0.2485
+epoch 44/60 train_loss=0.2473
+epoch 45/60 train_loss=0.2486 dice=0.8558 bf1=0.7114
+epoch 46/60 train_loss=0.2465
+epoch 47/60 train_loss=0.2461
+epoch 48/60 train_loss=0.2460
+epoch 49/60 train_loss=0.2445
+epoch 50/60 train_loss=0.2458 dice=0.8600 bf1=0.7102
+epoch 51/60 train_loss=0.2436
+epoch 52/60 train_loss=0.2456
+epoch 53/60 train_loss=0.2451
+epoch 54/60 train_loss=0.2435
+epoch 55/60 train_loss=0.2449 dice=0.8585 bf1=0.7127
+epoch 56/60 train_loss=0.2433
+epoch 57/60 train_loss=0.2440
+epoch 58/60 train_loss=0.2427
+epoch 59/60 train_loss=0.2438
+epoch 60/60 train_loss=0.2430 dice=0.8603 bf1=0.7123
+[seg_oxford_pet_pyramidal_zinit=middle_zshared_lvlnorm_offlr=0.1_seed=4] {"best": {"dice": 0.8603004861021076, "iou": 0.754848515430009, "boundary_f1": 0.712692941057271}, "final": {"loss": 0.24150166223789082, "dice": 0.8603004861021076, "iou": 0.754848515430009, "boundary_f1": 0.7122533115847357}, "seed": 4, "params": 18260, "train_time_s": 3249.9}
+final dice over 5 seed(s): 0.8615 +- 0.0023

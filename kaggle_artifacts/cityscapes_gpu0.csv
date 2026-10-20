@@ -1,0 +1,2 @@
+head,channels,options,seed,params,final_miou,final_pixel_acc,best_miou,train_time_s
+plain_conv,64,{},0,234515,0.2811,0.8184,0.2811,17061.6

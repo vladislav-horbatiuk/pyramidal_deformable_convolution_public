@@ -1,0 +1,18 @@
+head,channels,options,seed,params,final_miou,final_pixel_acc,best_miou,train_time_s
+plain_conv,64,{},0,234515,0.2811,0.8184,0.2811,17061.6
+pyramidal_attention,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",0,260201,0.3823,0.8649,0.3823,24180.2
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",0,259681,0.3693,0.8743,0.3693,20978.5
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",0,258470,0.3709,0.8604,0.3709,23470.4
+pyramidal_attention,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",1,260201,0.3667,0.8569,0.3667,24949.6
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",1,259681,0.3766,0.8777,0.3766,21548.6
+plain_conv,68,{},0,263859,0.282,0.8154,0.284,41676.1
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",1,258470,0.3713,0.8641,0.3713,23507.5
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",2,259681,0.3761,0.877,0.3771,22906.7
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",2,258470,0.3723,0.866,0.3732,23443.4
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",3,259681,0.3769,0.8762,0.3769,21748.2
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",3,258470,0.3772,0.8665,0.3793,22992.4
+pyramidal_single_level,66,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",0,259813,0.3748,0.8643,0.3752,21958.0
+pyramidal_attention,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",2,260201,0.3766,0.8631,0.3766,27351.4
+pyramidal_reduced,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",0,249238,0.2911,0.8232,0.2911,16952.2
+pyramidal_single_level,66,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",1,259813,0.3753,0.8676,0.3779,169933.4
+pyramidal_single_level,66,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",2,259813,0.37,0.8608,0.373,171709.3

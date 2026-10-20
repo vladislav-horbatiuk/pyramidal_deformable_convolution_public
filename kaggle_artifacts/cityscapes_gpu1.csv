@@ -1,0 +1,2 @@
+head,channels,options,seed,params,final_miou,final_pixel_acc,best_miou,train_time_s
+pyramidal_attention,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",0,260201,0.3823,0.8649,0.3823,24180.2

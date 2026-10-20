@@ -1,0 +1,11 @@
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=0] params=14851 device=cpu
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=0] {"best": {"dice": 0.8500228763487916, "iou": 0.739165031083372, "boundary_f1": 0.6981112689807497}, "final": {"loss": 0.26041927830926304, "dice": 0.8493001291701808, "iou": 0.738072672727194, "boundary_f1": 0.6981112689807497}, "seed": 0, "params": 14851, "train_time_s": 774.0}
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=1] params=14851 device=cpu
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=1] {"best": {"dice": 0.8487651783325726, "iou": 0.7372650326049532, "boundary_f1": 0.6996963209119337}, "final": {"loss": 0.2602684795856476, "dice": 0.8487651783325726, "iou": 0.7372650326049532, "boundary_f1": 0.6996171001730294}, "seed": 1, "params": 14851, "train_time_s": 756.1}
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=2] params=14851 device=cpu
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=2] {"best": {"dice": 0.8560514101718107, "iou": 0.7483303164003213, "boundary_f1": 0.712472730669482}, "final": {"loss": 0.25022334785297, "dice": 0.8553787190071316, "iou": 0.7473028268923834, "boundary_f1": 0.7115481968583732}, "seed": 2, "params": 14851, "train_time_s": 773.6}
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=3] params=14851 device=cpu
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=3] {"best": {"dice": 0.8484169173970334, "iou": 0.7367396501512904, "boundary_f1": 0.6967876676855416}, "final": {"loss": 0.2624398983758071, "dice": 0.8482232701961279, "iou": 0.7364476536529666, "boundary_f1": 0.6967293455682951}, "seed": 3, "params": 14851, "train_time_s": 762.1}
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=4] params=14851 device=cpu
+[seg_oxford_pet_pyramidal_reduced_single_level_zinit=middle_seed=4] {"best": {"dice": 0.8487937133509211, "iou": 0.737308094296117, "boundary_f1": 0.6967115422775005}, "final": {"loss": 0.26136515212470085, "dice": 0.8487937133509211, "iou": 0.737308094296117, "boundary_f1": 0.6966987046702154}, "seed": 4, "params": 14851, "train_time_s": 744.6}
+final dice over 5 seed(s): 0.8501 +- 0.0030

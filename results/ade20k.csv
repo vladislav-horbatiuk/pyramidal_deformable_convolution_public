@@ -1,0 +1,10 @@
+head,channels,options,seed,params,final_miou,final_pixel_acc,best_miou,train_time_s
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",0,334057,0.0548,0.5049,0.0549,28589.5
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",1,334057,0.0559,0.5038,0.0559,28401.1
+pyramidal,64,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle"", ""z_per_kernel_point"": false}",2,334057,0.0541,0.5018,0.0541,27343.3
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",0,337626,0.0517,0.481,0.0517,22124.9
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",1,337626,0.0503,0.4793,0.0503,23187.7
+pyramidal_single_level,66,"{""use_mask"": false, ""z_init"": ""middle""}",2,337626,0.0502,0.4786,0.0502,21613.9
+pyramidal_single_level,66,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",0,337758,0.0628,0.5129,0.0628,23289.3
+pyramidal_single_level,66,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",1,337758,0.0578,0.513,0.0578,22757.5
+pyramidal_single_level,66,"{""use_level_norm"": true, ""use_mask"": false, ""z_init"": ""middle""}",2,337758,0.0583,0.5062,0.0592,24319.8

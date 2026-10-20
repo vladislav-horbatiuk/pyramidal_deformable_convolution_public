@@ -1,0 +1,7 @@
+[seg_kvasir_pyramidal_single_level_zinit=middle_ch=17_seed=0] params=19161 device=cpu
+[seg_kvasir_pyramidal_single_level_zinit=middle_ch=17_seed=0] {"best": {"dice": 0.6496507372515432, "iou": 0.48109830187948394, "boundary_f1": 0.503598764538765}, "final": {"loss": 0.37889333814382553, "dice": 0.6465330273501256, "iou": 0.47768659333096575, "boundary_f1": 0.503598764538765}, "seed": 0, "params": 19161, "train_time_s": 1004.1}
+[seg_kvasir_pyramidal_single_level_zinit=middle_ch=17_seed=1] params=19161 device=cpu
+[seg_kvasir_pyramidal_single_level_zinit=middle_ch=17_seed=1] {"best": {"dice": 0.6494779236283386, "iou": 0.4809087796433556, "boundary_f1": 0.48659855872392654}, "final": {"loss": 0.38157467544078827, "dice": 0.6481737911709448, "iou": 0.4794801187745592, "boundary_f1": 0.48659855872392654}, "seed": 1, "params": 19161, "train_time_s": 1027.8}
+[seg_kvasir_pyramidal_single_level_zinit=middle_ch=17_seed=2] params=19161 device=cpu
+[seg_kvasir_pyramidal_single_level_zinit=middle_ch=17_seed=2] {"best": {"dice": 0.6424724009818746, "iou": 0.4732665482805155, "boundary_f1": 0.47677069902420044}, "final": {"loss": 0.3875192105770111, "dice": 0.6397123188089945, "iou": 0.4702772271302745, "boundary_f1": 0.47677069902420044}, "seed": 2, "params": 19161, "train_time_s": 1020.4}
+final dice over 3 seed(s): 0.6448 +- 0.0045

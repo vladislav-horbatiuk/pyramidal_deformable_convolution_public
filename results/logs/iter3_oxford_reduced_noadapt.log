@@ -1,0 +1,5 @@
+[seg_oxford_pet_pyramidal_reduced_zinit=middle_noadapt_seed=0] params=14996 device=cpu
+[seg_oxford_pet_pyramidal_reduced_zinit=middle_noadapt_seed=0] {"best": {"dice": 0.8503619419418654, "iou": 0.739677967323247, "boundary_f1": 0.6949974935630272}, "final": {"loss": 0.25871168333908606, "dice": 0.8503619419418654, "iou": 0.739677967323247, "boundary_f1": 0.6949478819452483}, "seed": 0, "params": 14996, "train_time_s": 883.6}
+[seg_oxford_pet_pyramidal_reduced_zinit=middle_noadapt_seed=1] params=14996 device=cpu
+[seg_oxford_pet_pyramidal_reduced_zinit=middle_noadapt_seed=1] {"best": {"dice": 0.8534317368917926, "iou": 0.7443357402709396, "boundary_f1": 0.7043316919228126}, "final": {"loss": 0.25368208720766267, "dice": 0.8534317368917926, "iou": 0.7443357402709396, "boundary_f1": 0.7043316919228126}, "seed": 1, "params": 14996, "train_time_s": 878.5}
+final dice over 2 seed(s): 0.8519 +- 0.0022

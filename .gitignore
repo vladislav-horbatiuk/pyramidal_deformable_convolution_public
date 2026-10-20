@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Datasets: downloaded or supplied locally, never committed.
+cifar_data/
+cifar_data100/
+oxford_iiit_pet/
+kvasir_seg_raw/
+cityscapes/
+ade20k/
+
+# Large artefacts kept outside the repository (see README.md).
+tensorboard_logs/
+kaggle_artifacts/tb_logs/
+results/ckpts/
+*.pth

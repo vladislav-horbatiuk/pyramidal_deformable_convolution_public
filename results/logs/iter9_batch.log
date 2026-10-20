@@ -1,0 +1,15 @@
+=== 17:41:47 starting kv_pyr_ln_zshared_s34 ===
+=== 18:24:50 finished kv_pyr_ln_zshared_s34 ===
+=== 18:24:50 starting kv_attn_ln_zshared ===
+=== 19:43:39 finished kv_attn_ln_zshared ===
+=== 19:43:39 starting ox_pyr_ln_zshared ===
+=== 22:04:26 finished ox_pyr_ln_zshared ===
+=== 22:04:26 starting kv_single_ln_ch17_s34 ===
+=== 22:39:02 finished kv_single_ln_ch17_s34 ===
+=== 22:39:02 starting kv_reduced_single_ln_ch17_s34 ===
+=== 22:54:12 finished kv_reduced_single_ln_ch17_s34 ===
+=== 22:54:12 starting ox_single_ln_ch17_s34 ===
+=== 00:11:50 finished ox_single_ln_ch17_s34 ===
+=== 00:11:50 starting ox_single_ln_ch19_s34 ===
+=== 01:41:07 finished ox_single_ln_ch19_s34 ===
+=== iteration-9 batch complete ===

@@ -1,0 +1,64 @@
+train=2975 val=500 device=cuda
+[cityscapes_pyramidal_single_level_ch=66_seed=2] params=259681
+epoch 1/60 train_loss=1.1701
+epoch 2/60 train_loss=0.9403
+epoch 3/60 train_loss=0.8717
+epoch 4/60 train_loss=0.7960
+epoch 5/60 train_loss=0.7629 val_loss=0.7119 miou=0.2502 pixel_acc=0.7876
+epoch 6/60 train_loss=0.7382
+epoch 7/60 train_loss=0.7129
+epoch 8/60 train_loss=0.6964
+epoch 9/60 train_loss=0.6615
+epoch 10/60 train_loss=0.6697 val_loss=0.5973 miou=0.2716 pixel_acc=0.8247
+epoch 11/60 train_loss=0.6646
+epoch 12/60 train_loss=0.6363
+epoch 13/60 train_loss=0.6213
+epoch 14/60 train_loss=0.6183
+epoch 15/60 train_loss=0.6194 val_loss=0.6132 miou=0.2813 pixel_acc=0.8183
+epoch 16/60 train_loss=0.5890
+epoch 17/60 train_loss=0.6041
+epoch 18/60 train_loss=0.5686
+epoch 19/60 train_loss=0.5781
+epoch 20/60 train_loss=0.5583 val_loss=0.5568 miou=0.2964 pixel_acc=0.8347
+epoch 21/60 train_loss=0.5495
+epoch 22/60 train_loss=0.5508
+epoch 23/60 train_loss=0.5479
+epoch 24/60 train_loss=0.5460
+epoch 25/60 train_loss=0.5372 val_loss=0.5037 miou=0.3280 pixel_acc=0.8506
+epoch 26/60 train_loss=0.5285
+epoch 27/60 train_loss=0.5407
+epoch 28/60 train_loss=0.5157
+epoch 29/60 train_loss=0.5113
+epoch 30/60 train_loss=0.5071 val_loss=0.4751 miou=0.3440 pixel_acc=0.8593
+epoch 31/60 train_loss=0.5152
+epoch 32/60 train_loss=0.5066
+epoch 33/60 train_loss=0.4979
+epoch 34/60 train_loss=0.4892
+epoch 35/60 train_loss=0.4786 val_loss=0.4565 miou=0.3561 pixel_acc=0.8634
+epoch 36/60 train_loss=0.4879
+epoch 37/60 train_loss=0.4893
+epoch 38/60 train_loss=0.4815
+epoch 39/60 train_loss=0.4733
+epoch 40/60 train_loss=0.4758 val_loss=0.4500 miou=0.3566 pixel_acc=0.8645
+epoch 41/60 train_loss=0.4670
+epoch 42/60 train_loss=0.4605
+epoch 43/60 train_loss=0.4660
+epoch 44/60 train_loss=0.4632
+epoch 45/60 train_loss=0.4646 val_loss=0.4358 miou=0.3579 pixel_acc=0.8686
+epoch 46/60 train_loss=0.4590
+epoch 47/60 train_loss=0.4542
+epoch 48/60 train_loss=0.4442
+epoch 49/60 train_loss=0.4418
+epoch 50/60 train_loss=0.4458 val_loss=0.4149 miou=0.3771 pixel_acc=0.8757
+epoch 51/60 train_loss=0.4533
+epoch 52/60 train_loss=0.4430
+epoch 53/60 train_loss=0.4339
+epoch 54/60 train_loss=0.4477
+epoch 55/60 train_loss=0.4411 val_loss=0.4097 miou=0.3760 pixel_acc=0.8766
+epoch 56/60 train_loss=0.4329
+epoch 57/60 train_loss=0.4336
+epoch 58/60 train_loss=0.4325
+epoch 59/60 train_loss=0.4364
+epoch 60/60 train_loss=0.4351 val_loss=0.4095 miou=0.3761 pixel_acc=0.8770
+[cityscapes_pyramidal_single_level_ch=66_seed=2] {"best": {"miou": 0.37709394097328186, "pixel_acc": 0.876993073842876}, "final": {"loss": 0.4095099777281284, "miou": 0.3761306405067444, "pixel_acc": 0.876993073842876}, "seed": 2, "params": 259681, "train_time_s": 22906.7}
+[cityscapes_pyramidal_single_level_ch=66_seed=2] eval dump: miou=0.3761 pixel_acc=0.8770

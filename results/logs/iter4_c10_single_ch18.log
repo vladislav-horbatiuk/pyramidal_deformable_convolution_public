@@ -1,0 +1,7 @@
+[cls_cifar10_pyramidal_single_level_ch=18_seed=0] params=88552 device=cpu
+[cls_cifar10_pyramidal_single_level_ch=18_seed=0] {"best_acc": 0.7737, "final_acc": 0.7723, "seed": 0, "params": 88552, "train_time_s": 782.2}
+[cls_cifar10_pyramidal_single_level_ch=18_seed=1] params=88552 device=cpu
+[cls_cifar10_pyramidal_single_level_ch=18_seed=1] {"best_acc": 0.7783, "final_acc": 0.7768, "seed": 1, "params": 88552, "train_time_s": 777.0}
+[cls_cifar10_pyramidal_single_level_ch=18_seed=2] params=88552 device=cpu
+[cls_cifar10_pyramidal_single_level_ch=18_seed=2] {"best_acc": 0.7808, "final_acc": 0.7808, "seed": 2, "params": 88552, "train_time_s": 785.0}
+final acc over 3 seed(s): 0.7766 +- 0.0043

@@ -1,0 +1,14 @@
+train=20210 val=2000 device=cuda
+[ade20k_pyramidal_single_level_ch=66_seed=2] params=337626
+epoch 1/10 train_loss=3.0569
+epoch 2/10 train_loss=2.7603 val_loss=2.4038 miou=0.0305 pixel_acc=0.4214
+epoch 3/10 train_loss=2.6450
+epoch 4/10 train_loss=2.5692 val_loss=2.3150 miou=0.0376 pixel_acc=0.4365
+epoch 5/10 train_loss=2.5027
+epoch 6/10 train_loss=2.4460 val_loss=2.1865 miou=0.0437 pixel_acc=0.4606
+epoch 7/10 train_loss=2.4063
+epoch 8/10 train_loss=2.3782 val_loss=2.1291 miou=0.0498 pixel_acc=0.4729
+epoch 9/10 train_loss=2.3463
+epoch 10/10 train_loss=2.3258 val_loss=2.1027 miou=0.0502 pixel_acc=0.4786
+[ade20k_pyramidal_single_level_ch=66_seed=2] {"best": {"miou": 0.05020087957382202, "pixel_acc": 0.47863124286557485}, "final": {"loss": 2.1027175727561116, "miou": 0.05020087957382202, "pixel_acc": 0.47863124286557485}, "seed": 2, "params": 337626, "train_time_s": 21613.9}
+[ade20k_pyramidal_single_level_ch=66_seed=2] eval dump: miou=0.0502 pixel_acc=0.4786
